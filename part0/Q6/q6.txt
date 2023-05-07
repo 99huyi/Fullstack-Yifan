@@ -1,0 +1,6 @@
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note over server:
+the server parses the data contained in 
+the post request which is in the JSON format
+end note
+server-->browser: HTML-code 201
